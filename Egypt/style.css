@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+nav{
+    text-align: center;
+    color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+}
